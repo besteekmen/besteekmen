@@ -1,40 +1,72 @@
-# Hi, I'm Beste 👋
+<div align="center">
 
-I'm a **Visual Computing graduate from Saarland University**, interested in how machine learning can be used to understand visual data, solve meaningful problems, and build useful applications.
+# Beste Ekmen
 
-My background connects **computer vision research, machine learning, and software engineering**. I've worked on artwork inpainting, data processing and explainable ML, and more recently on end-to-end AI applications involving retrieval, evaluation, and monitoring.
+**Machine Learning · Data Science · Computer Vision**
 
-I enjoy understanding how models work, experimenting with different approaches, and building the systems around them.
+*M.Sc. Visual Computing · Saarland University*
 
-### 🔬 Featured projects
+I like finding patterns in data, understanding what models learn, and building things that work beyond a notebook.
 
-**[Artwork Inpainting with GANs](https://github.com/besteekmen/WGAN-Artwork)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=githubpages&logoColor=white)](https://besteekmen.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/besteekmen/)
+[![Repositories](https://img.shields.io/badge/Projects-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/besteekmen?tab=repositories)
 
-Exploring deep generative models for restoring missing regions in paintings while preserving visual structure and artistic style.
+</div>
 
-**[Germany Decoded](https://github.com/besteekmen/germany-decoded)**
+### Hello, world. 👋
 
-An AI assistant for navigating German legal information. Built with hybrid retrieval, PostgreSQL/pgvector, automated ingestion, evaluation, monitoring, and Docker. Hybrid retrieval improved Hit@3 from 40% to 70% on a manually constructed benchmark.
+I'm a Visual Computing graduate with a background in **data science, machine learning, and computer vision**. I enjoy the whole process: preparing messy data, experimenting with models, interpreting results, and building reproducible applications.
 
-**[C++ Ray Tracer](https://github.com/besteekmen/CG-RayTracer)**
+At **DFKI**, my work was primarily data-science focused: I developed pipelines to collect and process painting images and associated text, worked on regression modeling, and used **SHAP** to understand model predictions. In my master's research, I explored **GAN-based artwork inpainting**—a different side of ML, focused on reconstruction and visual quality.
 
-A computer graphics project exploring ray tracing and 3D rendering.
+More recently, I've been building applied AI systems with an emphasis on data pipelines, retrieval evaluation, and monitoring.
 
-### 🛠️ Technologies
+```python
+workflow = ["explore data", "build a baseline", "evaluate", "explain", "iterate"]
+current_interests = {"data science", "machine learning", "computer vision"}
+```
 
-**Languages:** Python, SQL, C++, JavaScript
+### Selected projects
 
-**Machine Learning:** PyTorch, scikit-learn, XGBoost, computer vision, generative models, explainable AI
+| Project | Focus |
+| :--- | :--- |
+| **[Germany Decoded](https://github.com/besteekmen/germany-decoded)** | End-to-end retrieval application with automated ingestion, hybrid search, PostgreSQL/pgvector, Docker, evaluation, and monitoring. Hybrid retrieval improved **Hit@3 from 40% to 70%** on a small manually constructed benchmark. |
+| **[WGAN-Artwork](https://github.com/besteekmen/WGAN-Artwork)** | Artwork inpainting research using generative models; image reconstruction, training experiments, and visual evaluation. |
+| **[Anime-Data-Analysis](https://github.com/besteekmen/Anime-Data-Analysis)** | Data cleaning, exploratory analysis, and visual comparisons across anime datasets. |
+| **[CG-RayTracer](https://github.com/besteekmen/CG-RayTracer)** | C++ computer graphics project exploring ray tracing and image formation. |
 
-**Engineering & Data:** Pandas, PostgreSQL, Docker, GitHub Actions, ML evaluation
+### Toolbox
 
-### 🎓 Background
+<div align="left">
 
-- M.Sc. Visual Computing — Saarland University
-- IMPRS-CS Master's Scholarship
-- Research experience at DFKI
-- B.Sc. Computer Engineering and B.Sc. Industrial Engineering
+[![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-24292f?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit--learn](https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![pandas](https://img.shields.io/badge/pandas-24292f?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-### 📫 Connect
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/besteekmen/) · [Portfolio](https://besteekmen.github.io/) · [Email](mailto:besteekmen@gmail.com)
+**Also working with:** `NumPy` · `SHAP` · `XGBoost` · `Jupyter` · `C++` · `GitHub Actions` · `Linux`
+
+### Background & interests
+
+- **M.Sc. Visual Computing**, Saarland University · **IMPRS-CS scholarship**
+- **Research Assistant, DFKI** · data processing pipelines, regression models, and explainable ML
+- Experience with **CI/CD for ML workflows**, Docker, and PostgreSQL through Integrify
+- Interested in **applied data science, model evaluation, generative models, and computer vision**
+- Notes, algorithms, and implementation practice: [Python-Cheatsheets](https://github.com/besteekmen/Python-Cheatsheets)
+
+---
+
+<div align="center">
+
+*Curious about the next experiment—and what the evidence says.*
+
+[Portfolio](https://besteekmen.github.io/) · [LinkedIn](https://www.linkedin.com/in/besteekmen/) · [Repositories](https://github.com/besteekmen?tab=repositories)
+
+</div>
