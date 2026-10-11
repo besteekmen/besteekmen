@@ -1,18 +1,15 @@
 <div align="center">
 
-# Beste Ekmen
+<img src="assets/cv-header.png" alt="Beste Ekmen — Machine Learning, Data Science and Computer Vision" width="100%" />
 
-**Machine Learning · Data Science · Computer Vision**
+<br>
 
-*M.Sc. Visual Computing · Saarland University*
-
-I like finding patterns in data, understanding what models learn, and building things that work beyond a notebook.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=githubpages&logoColor=white)](https://besteekmen.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/besteekmen/)
-[![Repositories](https://img.shields.io/badge/Projects-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/besteekmen?tab=repositories)
+<a href="https://besteekmen.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/besteekmen/"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/besteekmen?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292f?style=flat-square&logo=github&logoColor=white" alt="Projects"></a>
 
 </div>
+
 
 ### Hello, world. 👋
 
