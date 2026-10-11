@@ -8,18 +8,7 @@ I like finding patterns in data, understanding what models learn, and building t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/besteekmen/)
 [![Repositories](https://img.shields.io/badge/Projects-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/besteekmen?tab=repositories)
 
-### About me
-
-I'm a Visual Computing graduate from **Saarland University**, with hands-on experience across **data science, machine learning, and computer vision**. I enjoy working through the entire ML process: preparing data, establishing baselines, evaluating models, interpreting results, and turning experiments into reproducible applications.
-
-At **DFKI**, I developed pipelines for collecting and processing painting images and associated text, worked on regression modeling, and used **SHAP** to understand predictions. My master's research explored **GAN-based artwork inpainting**, while my more recent projects focus on practical AI systems, retrieval evaluation, and monitoring.
-
-More recently, I've been building applied AI systems with an emphasis on data pipelines, retrieval evaluation, and monitoring.
-
-```python
-workflow = ["explore data", "build a baseline", "evaluate", "explain", "iterate"]
-current_interests = {"data science", "machine learning", "computer vision"}
-```
+I'm a Visual Computing graduate from **Saarland University**, with hands-on experience across **data science, machine learning, and computer vision**. I enjoy working through the entire ML process: preparing data, establishing baselines, evaluating models, interpreting results, and turning experiments into reproducible applications. At **DFKI**, I developed pipelines for collecting and processing painting images and associated text, worked on regression modeling, and used **SHAP** to understand predictions. My master's research explored **GAN-based artwork inpainting**, while my more recent projects focus on practical AI systems, retrieval evaluation, and monitoring. More recently, I've been building applied AI systems with an emphasis on data pipelines, retrieval evaluation, and monitoring.
 
 ### Selected projects
 
